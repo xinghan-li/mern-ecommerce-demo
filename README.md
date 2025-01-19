@@ -20,7 +20,6 @@ For full demo of the following features:
 - 📊 Sales Analytics
 - 🎨 Design with Tailwind
 - 🛒 Cart & Checkout Process
-- 🔒 Security
 - 🛡️ Data Protection
 - 🚀Caching with Redis
 
